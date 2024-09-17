@@ -6,8 +6,8 @@
 /* barra navegacao*/
 
 nav {
-    background-color: rgba(4, 144, 236, 0.911);
-    color: rgb(14, 6, 90); 
+    background-color: #093c58;
+    color: #38adbe; 
     padding: 10px;
 }
 
@@ -30,4 +30,16 @@ li {
 a{
     color: #fff;
     text-decoration: none;
+}
+
+img {
+    background-image: url(img/technology_digital_art-47538.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://c.wallhere.com/photos/49/a9/technology_digital_art-47538.jpg!d);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
